@@ -1,0 +1,8 @@
+Git notes
+
+git clone <url>   copy a repo to your computer
+git add .         stage all changes
+git commit -m ""  save a snapshot with a message
+git push          upload commits to GitHub
+git log --oneline view commit history
+git remote -v     show remotes

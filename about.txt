@@ -1,0 +1,3 @@
+VCC_1 is a practice repo for the Git workflow assignment.
+Files here are simple text and code files used to practice
+staging, committing, and pushing changes.
