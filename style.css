@@ -11,3 +11,9 @@ h1 {
 ul {
   list-style: square;
 }
+
+footer {
+  margin-top: 2rem;
+  font-size: 0.85rem;
+  color: #666;
+}
