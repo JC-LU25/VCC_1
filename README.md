@@ -1,3 +1,3 @@
 # VCC_1
 
-Practice repository for learning the Git and GitHub workflow: cloning, staging, committing, and pushing changes from the command line.
+Practice repo for the Git and GitHub workflow. I'm using it to try out cloning, committing, and pushing from the terminal.
